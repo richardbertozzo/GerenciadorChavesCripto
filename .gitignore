@@ -4,3 +4,7 @@ build/classes/
 *.properties
 
 nbproject/private/
+
+\.idea/
+
+*.class
